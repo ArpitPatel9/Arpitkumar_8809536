@@ -1,1 +1,3 @@
-# Arpitkumar_8809536
+Name: Arpitkumar Sureshchandra Patel
+Project Title: Lab 3
+Student ID: 8809536
